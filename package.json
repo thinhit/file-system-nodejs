@@ -1,0 +1,22 @@
+{
+  "name": "file-system-nodejs",
+  "version": "0.0.1",
+  "description": "Implement with file system in Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thinhit/file-system-nodejs.git"
+  },
+  "keywords": [
+    "file-system"
+  ],
+  "author": "Nguyen Thinh <thinhit@yahoo.com> (http://github.com/thinhit)",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/thinhit/file-system-nodejs/issues"
+  },
+  "homepage": "https://github.com/thinhit/file-system-nodejs"
+}
